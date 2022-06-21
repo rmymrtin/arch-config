@@ -14,7 +14,7 @@ https://gitlab.com/kalilinux/packages/kali-themes
 - libreoffice-still
 - xfce4-multiload-ng-plugin
 
-## Updated configs
+## Updated configs (settings paths for xfce)
 * Settings Manager
     * Appearance
         * Style: Kali-Dark
